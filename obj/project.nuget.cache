@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0+Rt/9ADyc4=",
+  "dgSpecHash": "oCQ1SK8hsxM=",
   "success": true,
-  "projectFilePath": "E:\\ProjectTask\\InventorySystem\\InventorySystem.csproj",
+  "projectFilePath": "E:\\New folder (2)\\Inventory-Management-Systems\\InventorySystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aa\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\aa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

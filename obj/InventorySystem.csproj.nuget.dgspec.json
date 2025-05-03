@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjectTask\\InventorySystem\\InventorySystem.csproj": {}
+    "E:\\New folder (2)\\Inventory-Management-Systems\\InventorySystem.csproj": {}
   },
   "projects": {
-    "E:\\ProjectTask\\InventorySystem\\InventorySystem.csproj": {
+    "E:\\New folder (2)\\Inventory-Management-Systems\\InventorySystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectTask\\InventorySystem\\InventorySystem.csproj",
+        "projectUniqueName": "E:\\New folder (2)\\Inventory-Management-Systems\\InventorySystem.csproj",
         "projectName": "InventorySystem",
-        "projectPath": "E:\\ProjectTask\\InventorySystem\\InventorySystem.csproj",
+        "projectPath": "E:\\New folder (2)\\Inventory-Management-Systems\\InventorySystem.csproj",
         "packagesPath": "C:\\Users\\aa\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectTask\\InventorySystem\\obj\\",
+        "outputPath": "E:\\New folder (2)\\Inventory-Management-Systems\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
